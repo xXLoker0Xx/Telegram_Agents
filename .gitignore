@@ -1,0 +1,19 @@
+# Ignorar el entorno virtual
+venv/
+
+# Ignorar el archivo de configuración de entorno
+.env
+
+# Ignorar la carpeta models
+ai_services/models/
+
+# Ignorar archivos generados automáticamente
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar logs
+*.log
+
+# Ignorar configuraciones específicas del editor
+.vscode/
